@@ -1,2 +1,3 @@
-# python-a-star-pathfinder
+# Python A* Pathfinder Visualization
+
 A* Pathfinder algorithm implemented using python
