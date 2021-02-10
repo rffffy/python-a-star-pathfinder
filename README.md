@@ -1,4 +1,4 @@
-# Python A* Pathfinder Visualization
+# A* Pathfinder Visualization
 
 ![imgur](https://i.imgur.com/MLrV4ds.gif)
 
